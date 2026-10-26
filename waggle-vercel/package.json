@@ -1,0 +1,8 @@
+{
+  "name": "waggle",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Waggle: apiary and honey business software",
+  "engines": { "node": ">=18" },
+  "dependencies": { "pg": "^8.13.1" }
+}
